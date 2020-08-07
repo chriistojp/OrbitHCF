@@ -1,0 +1,12 @@
+name: OrbitHCF
+version: ${project.version}
+main: me.christo.orbithcf.Main
+api-version: 1.13
+authors: [Christo]
+description: Switcher Balls, and Bard.
+website: http://www.devchristo.com/
+commands:
+  bard:
+    description: Gives the bard item.
+  switcher:
+    description: Gives the switcher ball.

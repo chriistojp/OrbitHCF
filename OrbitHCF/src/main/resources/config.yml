@@ -1,0 +1,16 @@
+###################################################
+#                                                 #
+# Orbit HCF (Switchers and Bard) v1.0 by Chriisto #
+#                                                 #
+###################################################
+
+Bard:
+  BardItemName: "&cBard Item &7(Hold me)"
+  BardItemLore: "&7Feel empowered yet?"
+  StrengthDuration: 2147483647 #Unlimited
+  StrengthAmplifer: 1 #Strength II
+  SuccessMessage: "&cBard &f> &7Successfully gave &c&l1x &7bard to &c&l{player}"
+
+Switcher:
+  SwitcherName: "&b&lSwitcher Ball &7(Throw me)"
+  SwitcherLore: "&7Dizyyyyyyyyyyy."
